@@ -1,4 +1,4 @@
-# Classic Arcade Game CLone #
+# Classic Arcade Game Clone #
 
 ## Introduction ##
 
